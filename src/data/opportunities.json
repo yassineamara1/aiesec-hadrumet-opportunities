@@ -1,0 +1,18 @@
+[
+  { "id": 1, "product": "Global Teaching", "title": "Italian Teaching", "organisation": "Progress Professional Center", "duration": "short", "created": "2026-09-18", "openings": 1, "salary": 600 },
+  { "id": 2, "product": "Global Teaching", "title": "English teacher", "organisation": "Progress Professional Center", "duration": "short", "created": "2026-09-18", "openings": 2, "salary": 600 },
+  { "id": 3, "product": "Global Teaching", "title": "German Teaching", "organisation": "Progress Professional Center", "duration": "short", "created": "2026-09-18", "openings": 2, "salary": 600 },
+  { "id": 4, "product": "Global Teaching", "title": "English teacher", "organisation": "365 University", "duration": "short", "created": "2026-04-14", "openings": 5, "salary": 750 },
+  { "id": 5, "product": "Global Talent", "title": "Social media manager", "organisation": "Brandicom Agency", "duration": "short", "created": "2026-10-27", "openings": 1, "salary": 600 },
+  { "id": 6, "product": "Global Talent", "title": "interior architect", "organisation": "Zitouni Interior", "duration": "short", "created": "2026-10-07", "openings": 1, "salary": 600 },
+  { "id": 7, "product": "Global Talent", "title": "Marketing", "organisation": "Sast Education", "duration": "short", "created": "2026-09-24", "openings": 3, "salary": 700 },
+  { "id": 8, "product": "Global Talent", "title": "Social Media Manager", "organisation": "Progress Professional Center", "duration": "short", "created": "2026-09-18", "openings": 4, "salary": 600 },
+  { "id": 9, "product": "Global Talent", "title": "Web Developer", "organisation": "Progress Professional Center", "duration": "short", "created": "2026-09-18", "openings": 4, "salary": 600 },
+  { "id": 10, "product": "Global Talent", "title": "Graphic Designer", "organisation": "Polytechnique Sousse", "duration": "short", "created": "2026-03-19", "openings": 2, "salary": 500 },
+  { "id": 11, "product": "Global Volunteer", "title": "Aquatica [4 week]", "organisation": "tahec", "duration": "short", "created": "2026-10-31", "openings": 10, "salary": null },
+  { "id": 12, "product": "Global Volunteer", "title": "Fingerprint [4 weeks]", "organisation": "Centre Culturel SEE", "duration": "short", "created": "2026-10-31", "openings": 4, "salary": null },
+  { "id": 13, "product": "Global Volunteer", "title": "Fingerprint [4 weeks]", "organisation": "Centre Culturel SEE", "duration": "short", "created": "2026-10-31", "openings": 6, "salary": null },
+  { "id": 14, "product": "Global Volunteer", "title": "Scale Up! [4 weeks]", "organisation": "atpec", "duration": "short", "created": "2026-10-31", "openings": 4, "salary": null },
+  { "id": 15, "product": "Global Volunteer", "title": "Fingerprint [4 weeks]", "organisation": "atpec", "duration": "short", "created": "2026-10-31", "openings": 3, "salary": null },
+  { "id": 16, "product": "Global Volunteer", "title": "Fingerprint [4 weeks]", "organisation": "atpec", "duration": "short", "created": "2026-10-31", "openings": 3, "salary": null }
+]
